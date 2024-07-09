@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* header part  */
+.hdr-container {
+  height: 600px;
+  margin: 50px 140px 0 140px;
+  border: 2px red solid;
+  border-radius: 16px;
+  background-image: url(new-year-offer-resources/images/Banner\ Image.png);
+}
+
+.text-white {
+  color: white;
+}
+.txt-happy {
+  width: 575px;
+  height: 170px;
+}
